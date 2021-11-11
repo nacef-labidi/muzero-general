@@ -7,3 +7,4 @@ seaborn
 nevergrad
 opencv-python
 gym[accept-rom-license]
+aiohttp==3.7.0
