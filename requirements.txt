@@ -2,7 +2,7 @@ numpy
 torch
 tensorboard
 gym
-ray
+ray[default]
 seaborn
 nevergrad
 opencv-python
